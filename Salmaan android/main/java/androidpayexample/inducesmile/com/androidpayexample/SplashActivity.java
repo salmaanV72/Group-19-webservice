@@ -1,5 +1,5 @@
 package androidpayexample.inducesmile.com.androidpayexample;
-
+***********************************************************************
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Handler;
